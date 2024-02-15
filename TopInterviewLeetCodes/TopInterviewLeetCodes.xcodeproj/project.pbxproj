@@ -1,0 +1,361 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		913C69E22B7E3C2400773B1D /* 0122. Best Time to Buy and Sell Stock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 913C69E12B7E3C2400773B1D /* 0122. Best Time to Buy and Sell Stock II.swift */; };
+		917D6E722B75408800664923 /* 0189. Rotate Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917D6E712B75408800664923 /* 0189. Rotate Array.swift */; };
+		917D6E742B75466B00664923 /* 0121. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917D6E732B75466B00664923 /* 0121. Best Time to Buy and Sell Stock.swift */; };
+		91EEFC712B72955A00166F76 /* 0026 - Remove Duplicates from Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91EEFC702B72955A00166F76 /* 0026 - Remove Duplicates from Sorted Array.swift */; };
+		91EEFC752B72B18200166F76 /* 0080. Remove Duplicates from Sorted Array II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91EEFC742B72B18200166F76 /* 0080. Remove Duplicates from Sorted Array II.swift */; };
+		91EEFC772B72B85E00166F76 /* 0169. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91EEFC762B72B85E00166F76 /* 0169. Majority Element.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		913C69E12B7E3C2400773B1D /* 0122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0122. Best Time to Buy and Sell Stock II.swift"; sourceTree = "<group>"; };
+		917D6E712B75408800664923 /* 0189. Rotate Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0189. Rotate Array.swift"; sourceTree = "<group>"; };
+		917D6E732B75466B00664923 /* 0121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0121. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
+		91EEFC592B72950A00166F76 /* TopInterviewLeetCodes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TopInterviewLeetCodes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		91EEFC702B72955A00166F76 /* 0026 - Remove Duplicates from Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0026 - Remove Duplicates from Sorted Array.swift"; sourceTree = "<group>"; };
+		91EEFC742B72B18200166F76 /* 0080. Remove Duplicates from Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0080. Remove Duplicates from Sorted Array II.swift"; sourceTree = "<group>"; };
+		91EEFC762B72B85E00166F76 /* 0169. Majority Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0169. Majority Element.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		91EEFC562B72950A00166F76 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		91EEFC502B72950A00166F76 = {
+			isa = PBXGroup;
+			children = (
+				91EEFC5B2B72950A00166F76 /* TopInterviewLeetCodes */,
+				91EEFC5A2B72950A00166F76 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		91EEFC5A2B72950A00166F76 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				91EEFC592B72950A00166F76 /* TopInterviewLeetCodes.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		91EEFC5B2B72950A00166F76 /* TopInterviewLeetCodes */ = {
+			isa = PBXGroup;
+			children = (
+				91EEFC732B72B15C00166F76 /* Easy */,
+				91EEFC722B72B13E00166F76 /* Medium */,
+			);
+			path = TopInterviewLeetCodes;
+			sourceTree = "<group>";
+		};
+		91EEFC722B72B13E00166F76 /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				91EEFC742B72B18200166F76 /* 0080. Remove Duplicates from Sorted Array II.swift */,
+				917D6E712B75408800664923 /* 0189. Rotate Array.swift */,
+				913C69E12B7E3C2400773B1D /* 0122. Best Time to Buy and Sell Stock II.swift */,
+			);
+			path = Medium;
+			sourceTree = "<group>";
+		};
+		91EEFC732B72B15C00166F76 /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				91EEFC702B72955A00166F76 /* 0026 - Remove Duplicates from Sorted Array.swift */,
+				91EEFC762B72B85E00166F76 /* 0169. Majority Element.swift */,
+				917D6E732B75466B00664923 /* 0121. Best Time to Buy and Sell Stock.swift */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		91EEFC582B72950A00166F76 /* TopInterviewLeetCodes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91EEFC6D2B72950C00166F76 /* Build configuration list for PBXNativeTarget "TopInterviewLeetCodes" */;
+			buildPhases = (
+				91EEFC552B72950A00166F76 /* Sources */,
+				91EEFC562B72950A00166F76 /* Frameworks */,
+				91EEFC572B72950A00166F76 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TopInterviewLeetCodes;
+			productName = TopInterviewLeetCodes;
+			productReference = 91EEFC592B72950A00166F76 /* TopInterviewLeetCodes.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		91EEFC512B72950A00166F76 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					91EEFC582B72950A00166F76 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = 91EEFC542B72950A00166F76 /* Build configuration list for PBXProject "TopInterviewLeetCodes" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 91EEFC502B72950A00166F76;
+			productRefGroup = 91EEFC5A2B72950A00166F76 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				91EEFC582B72950A00166F76 /* TopInterviewLeetCodes */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		91EEFC572B72950A00166F76 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		91EEFC552B72950A00166F76 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91EEFC752B72B18200166F76 /* 0080. Remove Duplicates from Sorted Array II.swift in Sources */,
+				913C69E22B7E3C2400773B1D /* 0122. Best Time to Buy and Sell Stock II.swift in Sources */,
+				91EEFC712B72955A00166F76 /* 0026 - Remove Duplicates from Sorted Array.swift in Sources */,
+				91EEFC772B72B85E00166F76 /* 0169. Majority Element.swift in Sources */,
+				917D6E722B75408800664923 /* 0189. Rotate Array.swift in Sources */,
+				917D6E742B75466B00664923 /* 0121. Best Time to Buy and Sell Stock.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		91EEFC6B2B72950C00166F76 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		91EEFC6C2B72950C00166F76 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		91EEFC6E2B72950C00166F76 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TopInterviewLeetCodes/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.varu.heena.TopInterviewLeetCodes;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		91EEFC6F2B72950C00166F76 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TopInterviewLeetCodes/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.varu.heena.TopInterviewLeetCodes;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		91EEFC542B72950A00166F76 /* Build configuration list for PBXProject "TopInterviewLeetCodes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91EEFC6B2B72950C00166F76 /* Debug */,
+				91EEFC6C2B72950C00166F76 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91EEFC6D2B72950C00166F76 /* Build configuration list for PBXNativeTarget "TopInterviewLeetCodes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91EEFC6E2B72950C00166F76 /* Debug */,
+				91EEFC6F2B72950C00166F76 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 91EEFC512B72950A00166F76 /* Project object */;
+}
