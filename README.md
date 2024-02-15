@@ -1,6 +1,6 @@
 **Conquer LeetCode's Top Interview Questions with Swift**
 
-![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/HeenaVR/TopInterviewLeetCode/assets/123239882/61e04fab-628d-42de-86a7-77e5482a4b84)
+![1_xwh3VrV-PAG89ROdLj6oXg](https://github.com/HeenaVR/TopInterviewLeetCode/assets/123239882/f5c39b40-f92a-476f-8151-ac46c03b681e)
 
 Transparency:
 
@@ -8,6 +8,6 @@ This project is under development, and while I'm eagerly working on offering sol
 
 I'm committed to adding new solutions regularly, so check back often to see my progress.
 
-Link: https://leetcode.com/studyplan/top-interview-150/
+Link to the questions: https://leetcode.com/studyplan/top-interview-150/
 
 
