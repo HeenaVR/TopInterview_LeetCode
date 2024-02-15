@@ -4,6 +4,7 @@
 //
 //  Created by Heena Beriya on 08.02.24.
 //
+// Link - https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150
 
 class Solution_0189 {
     func rotate(_ nums: inout [Int], _ k: Int) {
