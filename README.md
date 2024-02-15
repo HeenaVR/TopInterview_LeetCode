@@ -1,6 +1,6 @@
 **Conquer LeetCode's Top Interview Questions with Swift**
 
-[Black Beige Playful Geometric Product Fashion Portfolio Presentation.pdf](https://github.com/HeenaVR/TopInterviewLeetCode/files/14298518/Black.Beige.Playful.Geometric.Product.Fashion.Portfolio.Presentation.pdf)
+![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/HeenaVR/TopInterviewLeetCode/assets/123239882/61e04fab-628d-42de-86a7-77e5482a4b84)
 
 Transparency:
 
