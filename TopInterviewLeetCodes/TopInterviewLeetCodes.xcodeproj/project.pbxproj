@@ -10,6 +10,7 @@
 		913C69E22B7E3C2400773B1D /* 0122. Best Time to Buy and Sell Stock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 913C69E12B7E3C2400773B1D /* 0122. Best Time to Buy and Sell Stock II.swift */; };
 		917D6E722B75408800664923 /* 0189. Rotate Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917D6E712B75408800664923 /* 0189. Rotate Array.swift */; };
 		917D6E742B75466B00664923 /* 0121. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917D6E732B75466B00664923 /* 0121. Best Time to Buy and Sell Stock.swift */; };
+		91B76CAD2B8254120005E98F /* 0055. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B76CAC2B8254120005E98F /* 0055. Jump Game.swift */; };
 		91EEFC712B72955A00166F76 /* 0026 - Remove Duplicates from Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91EEFC702B72955A00166F76 /* 0026 - Remove Duplicates from Sorted Array.swift */; };
 		91EEFC752B72B18200166F76 /* 0080. Remove Duplicates from Sorted Array II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91EEFC742B72B18200166F76 /* 0080. Remove Duplicates from Sorted Array II.swift */; };
 		91EEFC772B72B85E00166F76 /* 0169. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91EEFC762B72B85E00166F76 /* 0169. Majority Element.swift */; };
@@ -19,6 +20,7 @@
 		913C69E12B7E3C2400773B1D /* 0122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0122. Best Time to Buy and Sell Stock II.swift"; sourceTree = "<group>"; };
 		917D6E712B75408800664923 /* 0189. Rotate Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0189. Rotate Array.swift"; sourceTree = "<group>"; };
 		917D6E732B75466B00664923 /* 0121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0121. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
+		91B76CAC2B8254120005E98F /* 0055. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0055. Jump Game.swift"; sourceTree = "<group>"; };
 		91EEFC592B72950A00166F76 /* TopInterviewLeetCodes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TopInterviewLeetCodes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		91EEFC702B72955A00166F76 /* 0026 - Remove Duplicates from Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0026 - Remove Duplicates from Sorted Array.swift"; sourceTree = "<group>"; };
 		91EEFC742B72B18200166F76 /* 0080. Remove Duplicates from Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0080. Remove Duplicates from Sorted Array II.swift"; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				91EEFC742B72B18200166F76 /* 0080. Remove Duplicates from Sorted Array II.swift */,
 				917D6E712B75408800664923 /* 0189. Rotate Array.swift */,
 				913C69E12B7E3C2400773B1D /* 0122. Best Time to Buy and Sell Stock II.swift */,
+				91B76CAC2B8254120005E98F /* 0055. Jump Game.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91B76CAD2B8254120005E98F /* 0055. Jump Game.swift in Sources */,
 				91EEFC752B72B18200166F76 /* 0080. Remove Duplicates from Sorted Array II.swift in Sources */,
 				913C69E22B7E3C2400773B1D /* 0122. Best Time to Buy and Sell Stock II.swift in Sources */,
 				91EEFC712B72955A00166F76 /* 0026 - Remove Duplicates from Sorted Array.swift in Sources */,
